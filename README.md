@@ -161,5 +161,7 @@ Second part of Airbnb: Joann Vuon
 
 ### VERSION 3
 Jolayemi Goodness - [Twitter](https://twitter.com/theblessedmann)
+Kedir Mohamed - [Twitter](https://twitter.com/Kedir1998)
+
 ## License
 Public Domain. No copy write protection. 
